@@ -14,7 +14,7 @@ We want to design a robot who search for silver tokens and deliver them to the g
 
 ## Requirements
 
-first, you should install python2 on your Ubuntu by following command:
+First, you should install python2 on your Ubuntu by following command:
 ```
 sudo apt-get updat
 sudo apt-get install python2
