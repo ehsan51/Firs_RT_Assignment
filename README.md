@@ -31,7 +31,7 @@ Now three following commands should be executed in a terminal:
 ```
     sudo apt-get udpate
     sudo apt-get install git
-    git clone https://github.com/2222222222222222222222
+    git clone https://github.com/ehsan51/First_RT_Assignment.git
 ```
 Now you should open a terminal shell and move to the 'robot-sim' directory and execute the :
 
